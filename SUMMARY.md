@@ -3,6 +3,7 @@
 * [Development Log](README.md)
 * [Pinball Like](pinball-like.md)
 * [Google Sheet Loader](google-sheet-loader/README.md)
-  * [테스트 페이지](google-sheet-loader/undefined.md)
+  * [개발 기록](google-sheet-loader/development-log.md)
+  * [프로젝트 적용 이력](google-sheet-loader/integration-history.md)
 * [Text RPG](text-rpg.md)
 * [Blood Sucker](blood-sucker.md)
